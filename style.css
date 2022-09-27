@@ -6,3 +6,15 @@
 .nav.bg-primary.justify-content-between {
     padding: 0 286px;
 }
+
+/* 
+------------------------------------------
+    Top Players and Top Blogs Styles 
+------------------------------------------
+*/
+.container.bg-light {
+    width: 952px;
+}
+.img-width {
+    width: 56px;
+}

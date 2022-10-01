@@ -1,20 +1,13 @@
 /* 
-----------------------------------
-    Navigation Custom Styles 
-----------------------------------
+----------------------
+    Ratings Color  
+----------------------
 */
-.nav.bg-primary.justify-content-between {
-    padding: 0 286px;
+
+.fa-solid.fa-star {
+    color: #FFC014;
 }
 
-/* 
-------------------------------------------
-    Top Players and Top Blogs Styles 
-------------------------------------------
-*/
-.container.bg-light {
-    width: 952px;
-}
-.img-width {
-    width: 56px;
+.fa-solid.fa-star-half {
+    color: #FFC014;
 }
